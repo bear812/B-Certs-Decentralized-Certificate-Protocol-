@@ -135,7 +135,3 @@ The project focuses on:
 - Building trust through decentralized infrastructure
 
 ---
-
-# License
-
-MIT License
